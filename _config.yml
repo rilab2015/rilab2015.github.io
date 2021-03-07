@@ -1,5 +1,5 @@
 # Setup
-title: Dark Poole
+title: Robotics and Intelligence 
 url: https://getpoole.com
 paginate: 1
 baseurl: ""
@@ -41,11 +41,20 @@ version: 3.0.0
 
 # Navbar page list
 nav:
-  - title: Blog
-    url: /archive
+  - title: Home
+    url: /
 
-  - title: About
-    url: /about
+  - title: Member 
+    url: /member
 
   - title: Publication
     url: /publication
+
+  - title: Research
+    url: /research
+
+  - title: Contact
+    url: /contact
+
+  - title: Board
+    url: /board
