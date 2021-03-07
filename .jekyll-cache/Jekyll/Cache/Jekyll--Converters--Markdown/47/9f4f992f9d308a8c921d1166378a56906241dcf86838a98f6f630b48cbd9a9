@@ -1,4 +1,4 @@
-I"/<h1 id="professor">Professor</h1>
+I"1<h1 id="professor">Professor</h1>
 
 <p>Sungon Lee, Ph.D.    (CV)
 <img src="/figure/member/member_lee.jpg" alt="" width="144" height="215" /></p>
@@ -75,7 +75,7 @@
 
 <ul>
   <li>Wooseok Ryu
-<img src="/figure/member/member_ryu.jpg" alt="" width="144" height="215" /></li>
+<img src="/figure/member/member_ryu.jpg" alt="" width="144" height="215" style="float: right" /></li>
   <li>한양대학교 공학기술연구소 연구조교수</li>
   <li>fbdntjr3@gmail.com</li>
   <li>Research interests
@@ -101,11 +101,8 @@
       <li>Inverted pendulum mobile robot</li>
     </ul>
   </li>
-  <li>Hyunsoo Shin</li>
-</ul>
-
-<p><img src="/figure/member/member_shin.jpg" alt="" width="144" height="215" /></p>
-<ul>
+  <li>Hyunsoo Shin
+<img src="/figure/member/member_shin.jpg" alt="" width="144" height="215" /></li>
   <li>한양대학교 전자공학과 박사과정</li>
   <li>(객원연구원 KU Leuven, Belgium, 2020)</li>
   <li>shs2316@hanyang.ac.kr</li>

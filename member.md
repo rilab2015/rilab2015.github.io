@@ -57,93 +57,101 @@ Sungon Lee, Ph.D.    (CV)
 # Researchers
 
 - Wooseok Ryu
-![](/figure/member/member_ryu.jpg){: width="144" height="215"}
-- 한양대학교 공학기술연구소 연구조교수
-- fbdntjr3@gmail.com
-- Research interests
-  - Mechanism design
-  - Medical robot
+![](/figure/member/member_ryu.jpg){: width="144" height="215"}{: style="float: right"}
+  - 한양대학교 공학기술연구소 연구조교수
+  - fbdntjr3@gmail.com
+  - Research interests
+    - Mechanism design
+    - Medical robot
+
+---
 
 # Ph.D Students
 
 - Sungtaek Cho
-![](/figure/member/member_cho.jpg){: width="144" height="215"}
-- 한양대학교 전자공학과 박사과정
-- savagegard_n@nate.com
-- Research interests
-  - Navigation system
-  - Motor control
-  - Visual servoing
-  - Inverted pendulum mobile robot
+![](/figure/member/member_cho.jpg){: width="144" height="215"}{: style="float: right"}
+  - 한양대학교 전자공학과 박사과정
+  - savagegard_n@nate.com
+  - Research interests
+    - Navigation system
+    - Motor control
+    - Visual servoing
+    - Inverted pendulum mobile robot
+
+---
 
 
 - Hyunsoo Shin
+![](/figure/member/member_shin.jpg){: width="144" height="215"}{: style="float: right"}
+  - 한양대학교 전자공학과 박사과정
+  - (객원연구원 KU Leuven, Belgium, 2020)
+  - shs2316@hanyang.ac.kr
+  - Research interests
+    - Robot calibration
+    - Visual servoing
 
-![](/figure/member/member_shin.jpg){: width="144" height="215"}
-- 한양대학교 전자공학과 박사과정
-- (객원연구원 KU Leuven, Belgium, 2020)
-- shs2316@hanyang.ac.kr
-- Research interests
-  - Robot calibration
-  - Visual servoing
+---
 
 
 - Geunhu Lee
-![](/figure/member/member_geun.jpg){: width="144" height="215"}
-- 한양대학교 전자공학과 박사과정
-- kunhu121@hanyang.ac.kr
-- Research interests 
-  - Multi-Camera System
-  - Mobile robot
-  - 3D Printer
+![](/figure/member/member_geun.jpg){: width="144" height="215"}{: style="float: right"}
+  - 한양대학교 전자공학과 박사과정
+  - kunhu121@hanyang.ac.kr
+  - Research interests 
+    - Multi-Camera System
+    - Mobile robot
+    - 3D Printer
+
+---
 
 - Jaeho Lee
-![](/figure/member/member_jae.jpg){: width="144" height="215"}
+![](/figure/member/member_jae.jpg){: width="144" height="215"}{: style="float: right"}
+  - 한양대학교 전자공학과 박사과정 
+  - pmh5050@hanyang.ac.kr 
+  - Research interests 
+    - Virtual reality design
+    - 3D scanner
+    - Robust object detection
 
-- 한양대학교 전자공학과 박사과정 
-- pmh5050@hanyang.ac.kr 
-- Research interests 
-  - Virtual reality design
-  - 3D scanner
-  - Robust object detection
+---
 
 # Master/Ph.D Students
 
 - Hyunho Hwang
-![](/figure/member/member_hwang.jpg){: width="144" height="215"}
+![](/figure/member/member_hwang.jpg){: width="144" height="215"}{: style="float: right"}
+  - 한양대학교 전자공학과 석/박사 통합과정 
+  - huno102@naver.com 
+  - Research interests 
+    - Image processing
+    - Deep learning
+    - Biotechnology
 
-- 한양대학교 전자공학과 석/박사 통합과정 
-- huno102@naver.com 
-- Research interests 
-  - Image processing
-  - Deep learning
-  - Biotechnology
+---
 
 # Master Students
 
 - Sangjun Park
-![](/figure/member/member_park.jpg){: width="144" height="215"}
+![](/figure/member/member_park.jpg){: width="144" height="215"}{: style="float: right"}
+  - 한양대학교 전자공학부 석사과정 
+  - psmj9292@naver.com 
+  - Research interests 
+    - Vision based control
+    - Robotics
 
-- 한양대학교 전자공학부 석사과정 
-- psmj9292@naver.com 
-- Research interests 
-  - Vision based control
-  - Robotics
-
+---
 - Minjun Shin
-![](/figure/member/member_min.jpg){: width="144" height="215"}
+![](/figure/member/member_min.jpg){: width="144" height="215"}{: style="float: right"}
+  - 한양대학교 전자공학부 석사과정 
+  - shinminjun@naver.com 
+  - Research interests 
+    - System control
+    - Robotics
 
-- 한양대학교 전자공학부 석사과정 
-- shinminjun@naver.com 
-- Research interests 
-  - System control
-  - Robotics
-
+---
 - Soyeon Kim
-![](/figure/member/member_so.jpg){: width="144" height="215"}
-
-- 한양대학교 전자공학부 석사과정 
-- nansy710@hanyang.ac.kr 
-- Research interests 
-  - Manipulator control
-  - Motion control 
+![](/figure/member/member_so.jpg){: width="144" height="215"}{: style="float: right"}
+  - 한양대학교 전자공학부 석사과정 
+  - nansy710@hanyang.ac.kr 
+  - Research interests 
+    - Manipulator control
+    - Motion control 

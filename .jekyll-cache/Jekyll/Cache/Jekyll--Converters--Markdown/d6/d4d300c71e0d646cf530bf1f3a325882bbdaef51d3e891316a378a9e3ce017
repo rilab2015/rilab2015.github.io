@@ -1,65 +1,4 @@
-<!DOCTYPE html>
-<html lang="en" data-theme="dark-poole">
-  <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-  <title>
-    
-      Member &middot; Robotics and Intelligence
-    
-  </title>
-
-  <link rel="stylesheet" href="/styles.css">
-  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/apple-touch-icon-precomposed.png">
-  <link rel="shortcut icon" href="/assets/favicon.ico">
-  <link rel="alternate" type="application/atom+xml" title="Robotics and Intelligence" href="/atom.xml">
-
-  <!-- Begin Jekyll SEO tag v2.7.1 -->
-<meta name="generator" content="Jekyll v4.2.0" />
-<meta property="og:title" content="Member" />
-<meta name="author" content="Mark Otto" />
-<meta property="og:locale" content="en_US" />
-<link rel="canonical" href="https://getpoole.com/member/" />
-<meta property="og:url" content="https://getpoole.com/member/" />
-<meta property="og:site_name" content="Robotics and Intelligence" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Member" />
-<script type="application/ld+json">
-{"@type":"WebPage","url":"https://getpoole.com/member/","author":{"@type":"Person","name":"Mark Otto"},"headline":"Member","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-
-</head>
-
-
-  <body>
-    <div class="container content">
-      <header class="masthead">
-        <h3 class="masthead-title">
-          <a href="/" title="Home">Robotics and Intelligence</a>
-
-          <nav class="nav">
-            
-            <small><a href="/">Home</a></small>
-            
-            <small><a href="/member">Member</a></small>
-            
-            <small><a href="/publication">Publication</a></small>
-            
-            <small><a href="/research">Research</a></small>
-            
-            <small><a href="/contact">Contact</a></small>
-            
-            <small><a href="/board">Board</a></small>
-            
-          </nav>
-        </h3>
-      </header>
-
-      <main>
-        <article class="page">
-  <h1 class="page-title">Member</h1>
-  <h1 id="professor">Professor</h1>
+I"œ<h1 id="professor">Professor</h1>
 
 <p>Sungon Lee, Ph.D.    (CV)
 <img src="/figure/member/member_lee.jpg" alt="" width="144" height="215" /></p>
@@ -150,8 +89,6 @@
   </li>
 </ul>
 
-<hr />
-
 <h1 id="phd-students">Ph.D Students</h1>
 
 <ul>
@@ -170,11 +107,6 @@
       </li>
     </ul>
   </li>
-</ul>
-
-<hr />
-
-<ul>
   <li>Hyunsoo Shin
 <img src="/figure/member/member_shin.jpg" alt="" width="144" height="215" style="float: right" />
     <ul>
@@ -189,11 +121,6 @@
       </li>
     </ul>
   </li>
-</ul>
-
-<hr />
-
-<ul>
   <li>Geunhu Lee
 <img src="/figure/member/member_geun.jpg" alt="" width="144" height="215" style="float: right" />
     <ul>
@@ -208,11 +135,6 @@
       </li>
     </ul>
   </li>
-</ul>
-
-<hr />
-
-<ul>
   <li>Jaeho Lee
 <img src="/figure/member/member_jae.jpg" alt="" width="144" height="215" style="float: right" />
     <ul>
@@ -228,8 +150,6 @@
     </ul>
   </li>
 </ul>
-
-<hr />
 
 <h1 id="masterphd-students">Master/Ph.D Students</h1>
 
@@ -250,8 +170,6 @@
   </li>
 </ul>
 
-<hr />
-
 <h1 id="master-students">Master Students</h1>
 
 <ul>
@@ -263,15 +181,12 @@
       <li>Research interests
         <ul>
           <li>Vision based control</li>
-          <li>Robotics</li>
+          <li>Robotics
+$\vspace{10cm}$</li>
         </ul>
       </li>
     </ul>
   </li>
-</ul>
-
-<hr />
-<ul>
   <li>Minjun Shin
 <img src="/figure/member/member_min.jpg" alt="" width="144" height="215" style="float: right" />
     <ul>
@@ -285,10 +200,6 @@
       </li>
     </ul>
   </li>
-</ul>
-
-<hr />
-<ul>
   <li>Soyeon Kim
 <img src="/figure/member/member_so.jpg" alt="" width="144" height="215" style="float: right" />
     <ul>
@@ -303,21 +214,4 @@
     </ul>
   </li>
 </ul>
-
-</article>
-
-      </main>
-
-      <footer class="footer">
-        <small>
-          &copy;
-          <time datetime="2021-03-07T14:35:20+09:00"
-            >2021</time
-          >. All rights reserved.
-        </small>
-      </footer>
-    </div>
-
-    
-  </body>
-</html>
+:ET
