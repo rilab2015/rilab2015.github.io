@@ -5,11 +5,12 @@ title: Research
 
 
 # 영상 및 LIDAR 센싱 안정화를 위한 active gimbal 시스템
-![](/figure/gimbal_mobile.png)
-
+[![](/figure/gimbal_mobile.png)](https://youtu.be/DnA44DLTFmY)
 
 # Visual servoing
+- [Visual Servoing with 6D Pose Tracking](https://youtu.be/lf857EpzI4c)
 
+- [Visual Servoing with Aruco Marker](https://youtu.be/sFgYQui6FKY)
 
 # 3D 스캐닝 관련 연구
 
