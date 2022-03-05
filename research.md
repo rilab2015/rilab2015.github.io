@@ -17,8 +17,6 @@ title: Research
 물체로부터 3차원 정보를 획득하기 위한 3D scanner를 개발하였다. 본 연구에서는 Structured light 기반으로 Line 레이져를 이용한 Line 스캔 방식 및 DLP 프로젝터를 이용한 Area 스캔 방식의 두가지 스캐너를 만들었다. 개발된 스캐너는 특히 딥러닝 기반의 3차원 물체인식 네트웍크의 학습을 위한 데이터 생성에 사용된다.
 
 ![](/figure/line.jpg)
-![](/figure/dlp.jpg)
-
 
 # 3D 프린터
 
